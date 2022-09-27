@@ -10,3 +10,11 @@ Services (AWS) Cloud. When you launch an Amazon EC2 instance, you are creating a
 virtual server. This means you are securing space on a physical server located in an AWS
 data center for your use. The allocated space consists of the compute, storage, and
 network resources you need to run your webserver workload.
+
+
+ Launch and configure an Amazon EC2 instance
+ Troubleshoot your Amazon EC2 instance
+ Update a security group
+ Create and test a security group rule
+ Resize an instance
+ Connect to your AWS EC2 instance via SSH 
